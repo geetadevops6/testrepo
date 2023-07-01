@@ -1,5 +1,8 @@
 fetch test
+<<<<<<< HEAD
 abc
 
 this is from local to origin
 
+=======
+>>>>>>> parent of 10ac457 (Update fetch)
